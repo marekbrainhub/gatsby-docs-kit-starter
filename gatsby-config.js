@@ -10,7 +10,7 @@ module.exports = {
     image: 'https://cdn-images-1.medium.com/max/1200/1*CLUFZFaXF6NG27NA3d_JkQ.jpeg',
     url: 'https://screencloud.dev.brainhub.pl/',
     type: 'article',
-    siteName: 'Brainhub template',
+    siteName: 'Hadron Documentation',
     githubUrl: 'https://github.com/brainhubeu',
   },
 
